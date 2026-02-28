@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "まがった僕のしっぽ",
+  "base_artist": "Spitz",
+  "createdAt": "2026-02-28T08:22:36.504676Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "まがった僕のしっぽ",
+      "artist": "SPITZ",
+      "has_synced": true,
+      "path": "select/01_まがった僕のしっぽ_SPITZ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "まがった僕のしっぽ",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/02_まがった僕のしっぽ_スピッツ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "まがった僕のしっぽ",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_01_まがった僕のしっぽ_スピッツ.txt"
+    }
+  ]
+}
